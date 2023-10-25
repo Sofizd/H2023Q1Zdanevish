@@ -1,0 +1,17 @@
+const day='суббота'
+if(day==='среда')
+console.log('это третий день недели')
+else if(day==='вторник')
+console.log('это второй день недели')
+else if(day==='понедельник')
+console.log('это первый день недели')
+else if(day==='воскресенье')
+console.log('это седьмой день недели')
+else if(day==='суббота')
+console.log('это шестой день недели')
+else if(day==='пятница')
+console.log('это пятый день недели')
+else if(day==='четверг')
+console.log('это четвёртый день недели')
+else
+console.log('бла-бла-бла')
